@@ -1,0 +1,18 @@
+#git config --global core.excludesfile '~/.gitignore'
+
+.gradle
+.idea
+/build
+/captures
+/bin
+/gen
+/out
+
+/local.properties
+.DS_Store
+
+*.iml
+*.apk
+*.ap_
+*.dex
+*.class
